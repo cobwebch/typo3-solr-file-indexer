@@ -1,5 +1,5 @@
 {
-  "name": "hmmh/solr-file-indexer",
+  "name": "cobwebch/solr-file-indexer",
   "description": "Solr file indexer for Typo3",
   "keywords": ["typo3", "solr", "file", "tika", "apache", "indexer"],
   "type": "typo3-cms-extension",
